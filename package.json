@@ -1,5 +1,5 @@
 {
-  "name": "r-script",
+  "name": "r-script-uello",
   "version": "0.0.4",
   "description": "A simple little module for passing data from NodeJS to R (and back again).",
   "keywords": [
@@ -7,14 +7,14 @@
     "rstats",
     "statistics"
   ],
-  "homepage": "http://github.com/joshkatz/r-script",
-  "bugs": "http://github.com/joshkatz/r-script/issues",
+  "homepage": "https://github.com/Uello/r-script",
+  "bugs": "https://github.com/Uello/r-script/issues",
   "license": "MIT",
   "author": {
     "name": "Josh Katz"
   },
   "main": "index.js",
-  "repository": "joshkatz/r-script",
+  "repository": "Uello/r-script",
   "dependencies": {
     "underscore": "^1.8.3"
   },
